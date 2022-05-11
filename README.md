@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Edward. <p align="left"> <img src="https://komarev.com/ghpvc/?username=edward-not&label=Profile%20views&color=0e75b6&style=flat" alt="edward-not" /> </p> t</h1>
+<h1 align="center">Hi, I'm Edward. <p align="left"> <img src="https://komarev.com/ghpvc/?username=edward-not&label=Profile%20views&color=0e75b6&style=flat" alt="edward-not" /> </p> </h1>
 <h3 align="center">JS, Node.JS, Python & C/C++ Dev</h3>
 
 
