@@ -1,29 +1,16 @@
-<h1 align="center">Hi 👋, I'm edward-not</h1>
-<h3 align="center">The world's greatest JS, Node.JS, Python & C/C++ Dev</h3>
+<h1 align="center">Hi, I'm Edward. <p align="left"> <img src="https://komarev.com/ghpvc/?username=edward-not&label=Profile%20views&color=0e75b6&style=flat" alt="edward-not" /> </p> t</h1>
+<h3 align="center">JS, Node.JS, Python & C/C++ Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edward-not&label=Profile%20views&color=0e75b6&style=flat" alt="edward-not" /> </p>
+
+- Lead Developer @ http://aesoftware.xyz
+- Admin @ https://dubaiaisociety.com
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward-not" alt="edward-not" /></a> </p>
 
-- 🔭 I’m currently working on **a programming language for absolute beginners.**
-
-- 🌱 I’m currently learning **Go and Kotlin.**
-
-- 👯 I’m collaborating on [some JavaScript Blooket hacks](https://github.com/glixzzy/blooket-hack)
-
-- 🤝 I’m looking for help **people get into programming**
-
-- 👨‍💻 All of my projects are available on [my GitHub](my GitHub)
-
-- 💬 Ask me about **anything to do with programming.**
-
-- 📫 How to reach me **edward-not@protonmail.com**
-
-- ⚡ Fun fact **Fortran is the oldest programming lang, made in the 1950s**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/ibm#9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibm#9999" height="30" width="40" /></a>
+<a href="https://discord.com/users/842376384483819541/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibm#9999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
